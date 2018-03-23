@@ -1,0 +1,6 @@
+model_checkpoint_path: "lr-model-960"
+all_model_checkpoint_paths: "lr-model-0"
+all_model_checkpoint_paths: "lr-model-240"
+all_model_checkpoint_paths: "lr-model-480"
+all_model_checkpoint_paths: "lr-model-720"
+all_model_checkpoint_paths: "lr-model-960"
